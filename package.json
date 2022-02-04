@@ -18,5 +18,9 @@
                 "path": "./themes/Calm Purple Theme-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RighteousHundred/calm-purple-theme.git"
     }
 }
