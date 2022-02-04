@@ -9,7 +9,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "https://raw.githubusercontent.com/RighteousHundred/calm-purple-theme/master/images/icon.png",
+    "icon": "images/icon.png",
     "contributes": {
         "themes": [
             {
