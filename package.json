@@ -2,7 +2,7 @@
     "name": "calm-purple-theme",
     "displayName": "Calm Purple Theme",
     "description": "Most purple themes are very bright, and as a result, it's not good for the eyes. That's where this theme comes in. It brings in the feel of purple into VS Code, while also making your eyes happy with it.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.64.0"
     },
